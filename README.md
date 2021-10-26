@@ -1,13 +1,5 @@
 # React Authentication with NodeJS
 
-### Backend
-
-https://reactauthwithnodejs-api.herokuapp.com/api
-
-### Frontend
-
-https://reactauthwithnodejs.herokuapp.com
-
 ## Features
 
 1. Login
